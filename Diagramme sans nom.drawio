@@ -1,11 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T10:28:07.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="5iULW_5xjXo2BrVN9NZl" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T12:33:40.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="6bsh4eey9EiMz8QObF-L" version="21.1.4" type="github">
   <diagram name="Page-1" id="fk9rbdVK4m5I_ALst2UT">
-    <mxGraphModel dx="1189" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I3FUIYHm-plFTADxBa1i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="103" y="188" width="160" height="66" as="geometry" />
+        <mxCell id="I3FUIYHm-plFTADxBa1i-1" value="dtm_ni_corporate_credits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-39" y="92" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-1" value="&lt;h1&gt;Snapshot of NI DATAMART&lt;/h1&gt;&lt;div&gt;libname YIDEFAUT &quot;d:\Inbox\GrantThornton_Quantylix\0.DEFAUT\DATA\1.Corporate&quot;;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="-57" width="357" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-2" value="&lt;div&gt;4 783 884&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ENCOURS &amp;gt;100&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4 504 729&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-266" y="212" width="142" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-4" value="&lt;div&gt;4 504 729&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;data ybarrete_2016 ;&lt;/div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;set ybcredit_corpo (where=(DATEARRETE=&quot;31dec2016:00:00:00&quot;dt));&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;DATEARRETE=&quot;31JAN2017:00:00:00&quot;dt;&lt;br&gt;&lt;div&gt;run;&lt;/div&gt;&lt;br&gt;&lt;div&gt;45 687&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;data YODEFAUT.ybcorpo_credit (where=(DATEARRETE&amp;gt;=&quot;31dec2016:00:00:00&quot;dt));&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;set ybcredit_corpo ybarrete_2016;&lt;br&gt;&lt;div&gt;run;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4 514 512&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;supprimer l arrete 31/12/2015; doubler les donnees du&amp;nbsp; 31/12/2016 avec date 31/01/2017, date qui ete absente &lt;br&gt;&lt;table width=&quot;80&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr height=&quot;20&quot;&gt;&lt;td class=&quot;xl65&quot; width=&quot;80&quot; height=&quot;20&quot; align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;table width=&quot;80&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr height=&quot;20&quot;&gt;&lt;td class=&quot;xl63&quot; width=&quot;80&quot; height=&quot;20&quot; align=&quot;right&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-713" y="340" width="610" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-6" value="ybcredit_corpo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-19" y="294" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-10" value="ybarrete_2016" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-11" value="ybcorpo_credit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3FUIYHm-plFTADxBa1i-1" target="H9Tu-maiYCN29PMUfYHM-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="537" as="sourcePoint" />
+            <mxPoint x="-13" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H9Tu-maiYCN29PMUfYHM-6" target="H9Tu-maiYCN29PMUfYHM-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="51" y="195" as="sourcePoint" />
+            <mxPoint x="51" y="331" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="82" y="354" as="sourcePoint" />
+            <mxPoint x="85.00000000000023" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.333;exitY=1.107;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H9Tu-maiYCN29PMUfYHM-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="537" as="sourcePoint" />
+            <mxPoint x="87" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-17" value="&lt;h1&gt;MACRO VARIABLES&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="30" width="244" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-18" value="ybcredit_corpo" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679.9957142857143" y="542.9957142857144" width="108" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-19" value="&lt;h1&gt;LIBRARY&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="33" width="121" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-20" value="YIDEFAUT" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="-71" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-22" value="YODEFAUT" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="509" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-23" value="ybcredit_clients" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687.9985714285716" y="627.9957142857145" width="113" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-24" value="&lt;div&gt;/***************************************************** Credit fonct ****************************************************/&lt;/div&gt;&lt;div&gt;&lt;div&gt;4 514 512&lt;/div&gt;&lt;/div&gt;&lt;div&gt;proc sql;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;create table credit_corpo_fonctionnement as&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;select A.* , B.flagagriagro&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;from &amp;amp;ybcredit_corpo as A&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;left join (select distinct idtiers, flagagriagro from &amp;amp;ybcredit_clients) as B &lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;on A.idtiers=B.idtiers&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;where A.&lt;span style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;naturecredit in (&#39;ESCOMPTE&#39;,&#39;ACNE&#39;,&#39;PREFI&#39;,&#39;DECOUVERT&#39;,&#39;AUTRES DEBITS&#39;,&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&#39;CCT&#39;,&#39;ASM&#39;, &#39;REFINACEMENT EN DEVISE&#39;,&#39;PREFIANCEMENT EN DEVISE&#39;,&#39;MCNE&#39;,&#39;AVANCE SUR FDA&#39;);&lt;/span&gt;&lt;br&gt;quit; &lt;br&gt;&lt;/div&gt;&lt;div&gt;3 765 957&amp;nbsp;&amp;nbsp;&amp;nbsp; (filtre dur les natures credits fonctiuonemnt )&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="664" width="605" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I3FUIYHm-plFTADxBa1i-1" target="H9Tu-maiYCN29PMUfYHM-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="sourcePoint" />
+            <mxPoint x="330" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="34" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.989;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H9Tu-maiYCN29PMUfYHM-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="632" as="sourcePoint" />
+            <mxPoint x="330" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-28" value="dtm_ni_corporate_client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="610" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-30" value="&lt;div&gt;all&lt;/div&gt;&lt;div&gt;(left join&lt;/div&gt;&lt;div&gt;)&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.65;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H9Tu-maiYCN29PMUfYHM-11" target="H9Tu-maiYCN29PMUfYHM-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37" y="595" as="sourcePoint" />
+            <mxPoint x="31" y="593" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-31" value="credit_corpo_fonctionnement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="771" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-34" value="&lt;div&gt;FLAG AGRI AGRO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H9Tu-maiYCN29PMUfYHM-28" target="H9Tu-maiYCN29PMUfYHM-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63" y="589" as="sourcePoint" />
+            <mxPoint x="63" y="781" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9Tu-maiYCN29PMUfYHM-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9Tu-maiYCN29PMUfYHM-11" target="H9Tu-maiYCN29PMUfYHM-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="670" as="sourcePoint" />
+            <mxPoint x="425" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
